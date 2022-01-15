@@ -1,4 +1,4 @@
-# SQL Challenge - Employee Database
+# Employee SQL Database
 
 
 #### Data Modeling
